@@ -22,10 +22,15 @@ Usage
 
 Now that you've installed the plugin, how do you use it?!
 
-Step 1: Open up single.php (or whatever file you want to show some love on)
-Step 2: Add <?php wpcl_love(); ?> on the page.
-Step 3: Have a beer.
+# Step 1: Open up single.php (or whatever file you want to show some love on)
+# Step 2: Add <?php wpcl_love(); ?> on the page.
+# Step 3: Have a beer.
 
+THE ABOVE IS NO LONGER CORRECT.
+
+The love code is automatically added to the bottom of the post.
+
+Todo: Add a switch in the admin to allow the user to use a custom placement.
 
 
 Styling
